@@ -1,4 +1,4 @@
-## Hi there 👋
+## H👋 Hi, I'm Ihor Kovalenko
 
 <!--
 **Ihor-Kovalenko13/Ihor-Kovalenko13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
