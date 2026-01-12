@@ -1,5 +1,5 @@
-## H👋 Hi, I'm Ihor Kovalenko
-
+## 👋 Hi, I'm Ihor Kovalenko
+ Junior Fullstack Developer | React | Node.js 
 <!--
 **Ihor-Kovalenko13/Ihor-Kovalenko13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
